@@ -1,7 +1,12 @@
-Coupled ANSYS UDFs for Fully Lagrangian Approach (FLA) foro spray modelling with the heat and mass modelling for a single component droplet
-Has been tested with ANSYS Fluent 17.2
+Coupled ANSYS UDFs for Fully Lagrangian Approach (FLA) foro spray modelling with the heat and mass modelling for a single component droplet.
+
+The code was tested with ANSYS Fluent 17.2
 
 A user can select from water, n-dodecane, and iso-octane droplets.
+
+If you use our software, please cite the following:
+Timur S. Zaripov, Oyuna Rybdylova, Sergei S. Sazhin, A model for heating and evaporation of a droplet cloud and its implementation into ANSYS Fluent, International Communications in Heat and Mass Transfer, Volume 97, 2018, Pages 85-91, ISSN 0735-1933,
+https://doi.org/10.1016/j.icheatmasstransfer.2018.06.007.
 
 The references for physical properties are in the code for each of the fluids
 For more detail on the FLA, see
